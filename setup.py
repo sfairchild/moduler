@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
         name='Moduler',
-        version='0.0.1',
+        version='0.0.2',
         author='Sean Fairchild',
         author_email='seanf215@gmail.com',
         packages=['moduler'],
