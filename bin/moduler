@@ -7,7 +7,7 @@ import yaml
 
 logging.basicConfig(level=logging.INFO)
 
-with open(r'Modular') as file:
+with open(r'Moduler') as file:
     data = yaml.load(file, Loader=yaml.FullLoader)
 
     for repo in data['modules']:
